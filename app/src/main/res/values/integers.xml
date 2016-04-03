@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Customize default application parameters -->
+    <integer name="calc_stack_capacity">10</integer>
+    <integer name="toast">1</integer>  <!-- toast (0|1) : (off|on) -->
+    <integer name="sms">1</integer>   <!-- sms (0|1|2) : (off|activity|service) -->
+
+    <!-- Menu options -->
+    <integer name="toast_menu">1</integer>
+    <integer name="sms_menu">2</integer>
+    <integer name="option_not_defined">-1</integer>
+    <integer name="toast_off">0</integer>
+    <integer name="toast_on">1</integer>
+    <integer name="sms_off">0</integer>
+    <integer name="sms_activity">1</integer>
+    <integer name="sms_service">2</integer>
+
+</resources>

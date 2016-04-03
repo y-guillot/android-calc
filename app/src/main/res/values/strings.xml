@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculette</string>
+    <string name="sms_options">SMS options</string>
+    <string name="toast_off">Toasts OFF</string>
+    <string name="toast_off_str">Toasts disabled</string>
+    <string name="toast_on">Toasts ON</string>
+    <string name="toast_on_str">Toasts enabled</string>
+    <string name="no_sms">SMS OFF</string>
+    <string name="no_sms_str">SMS disabled</string>
+    <string name="activity_sms">SMS manual</string>
+    <string name="activity_sms_str">SMS enabled</string>
+    <string name="service_sms">SMS auto</string>
+    <string name="service_sms_str">SMS auto</string>
+    <string name="pref_sms_name">sms</string>
+    <string name="pref_toast_name">toast</string>
+    <string name="stack_hint">[]</string>
+    <string name="stack">stack :</string>
+    <string name="result_hint">empty stack</string>
+    <string name="result">result :</string>
+    <string name="operations">operations :</string>
+    <string name="entry">entry :</string>
+    <string name="empiler">empiler</string>
+    <string name="undo">«</string>
+    <string name="clear">X</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="recieverUri">06 42 42 42 73</string>
+</resources>
